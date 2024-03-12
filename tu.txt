@@ -1,0 +1,8 @@
+This page is about:
+
+- **Attendance management system**: The page is a web application for managing the attendance of students at the **Institute of Technology Management Gwalior**. 
+The system allows users to login, register, and view the attendance of students for the month of "November".
+    Attendance table**: The page shows a table with the names of students and their attendance status for each day of the month.
+ The table has four columns: **Names**, **Student Name**, **Student Name**, and **P A L H**. The last column indicates whether the student was **Present**, **Absent**, **Late**, or on **Holiday** on a given day.
+- **Date selection**: The page also has an option to select a specific date to view the attendance of students.
+ The user can enter the date in the format of **mm / dd / yyyy** and click on the **Select Date** button. The page will then display the attendance of students for that date.
